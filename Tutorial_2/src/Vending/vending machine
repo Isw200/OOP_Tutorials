@@ -1,0 +1,6 @@
+methods
+* fillCans
+* insertToken
+* dropCan
+* getToken
+* getCan
