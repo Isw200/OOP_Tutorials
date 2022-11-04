@@ -5,6 +5,7 @@ public class Letter implements Printable {
 
     public Letter(String textField) {
         this.textField = textField;
+        hi();
     }
 
     @Override

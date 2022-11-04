@@ -1,7 +1,7 @@
 package Q5;
 
 public abstract class Card {
-    private String name;
+    private final String name;
 
 
     public Card() {
